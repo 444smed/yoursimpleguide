@@ -1,0 +1,42 @@
+---
+title: "Brailee, 9th Grade"
+description: "Course links and what counts toward your high school transcript."
+---
+
+## Your courses
+
+| Course | Link | Notes |
+|---|---|---|
+| Algebra I | [Open](https://example.com) | |
+| English I | [Open](https://example.com) | Writing assignment due Friday |
+| Biology | [Open](https://example.com) | Lab write ups get saved |
+| World Geography | [Open](https://example.com) | |
+| Spanish I | [Open](https://example.com) | |
+| Health or PE | [Open](https://example.com) | Log your activity |
+| Elective | [Open](https://example.com) | |
+
+: {tbl-colwidths="[28,20,52]"}
+
+## Credits this year
+
+Ninth grade counts. Every course you finish this year goes on your transcript for college applications.
+
+| Course | Credit | Status |
+|---|---|---|
+| Algebra I | 1.0 | In progress |
+| English I | 1.0 | In progress |
+| Biology | 1.0 | In progress |
+| World Geography | 1.0 | In progress |
+| Spanish I | 1.0 | In progress |
+
+## Dual credit
+
+The goal is for you to start earning college credit while you are still in high school. Nothing to do yet, but here is where we are:
+
+- [ ] Confirm which local college accepts homeschool dual credit students
+- [ ] Check the placement test requirement
+- [ ] Pick a first course
+
+## Keeping records
+
+Save a copy of every graded assignment, test, and lab report in your school folder. At the end of the year we use those to build your transcript. If it is not saved, it did not happen.

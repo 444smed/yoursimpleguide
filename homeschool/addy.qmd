@@ -1,0 +1,37 @@
+---
+title: "Addy, 7th Grade"
+description: "Course links and what you are working on this year."
+---
+
+## Your courses
+
+| Course | Link | Notes |
+|---|---|---|
+| Math 7 | [Open](https://example.com) | |
+| English 7 | [Open](https://example.com) | Writing assignment due Friday |
+| Life Science | [Open](https://example.com) | |
+| Texas History | [Open](https://example.com) | |
+| Spanish | [Open](https://example.com) | |
+| PE or activity | [Open](https://example.com) | Log your activity |
+| Elective | [Open](https://example.com) | |
+
+: {tbl-colwidths="[28,20,52]"}
+
+## What we are working on this year
+
+- Writing a clear paragraph, then a clear multi paragraph essay
+- Reading every day, including books you pick yourself
+- Getting comfortable working on your own without being reminded
+
+## Reading list
+
+Add books here as you finish them.
+
+| Book | Finished |
+|---|---|
+|  |  |
+|  |  |
+
+## Keeping records
+
+Seventh grade work does not go on a transcript, but keep your graded work in your school folder anyway. It makes it easy to see how much you have improved.

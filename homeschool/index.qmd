@@ -1,0 +1,57 @@
+---
+title: "Homeschool"
+description: "Start here. Course links, daily routine, and where to find this week's work."
+---
+
+Welcome, girls. Everything you need for school is on this site.
+
+::: {.this-week}
+## Start your day here
+
+1. Open **[This Week's Assignments](weekly.qmd)** and read the whole page before you begin.
+2. Go to your own page, [Brailee](brailee.qmd) or [Addy](addy.qmd), for your course links.
+3. Work the subjects in the order listed. Check off each one as you finish.
+4. Anything you could not finish or did not understand, write it down and bring it to me.
+:::
+
+## Course links
+
+Bookmark this table. These are the sites you will use every day.
+
+| Subject | Where to go | Who |
+|---|---|---|
+| Main course platform | [Log in](https://example.com) | Both |
+| Math | [Log in](https://example.com) | Both |
+| Writing and Literature | [Log in](https://example.com) | Both |
+| Science | [Log in](https://example.com) | Both |
+| History | [Log in](https://example.com) | Both |
+| Spanish | [Log in](https://example.com) | Both |
+| Typing practice | [Log in](https://example.com) | Both |
+| Dual credit portal | [Log in](https://example.com) | Brailee |
+
+: {tbl-colwidths="[30,40,30]"}
+
+## Daily routine
+
+| Time | What |
+|---|---|
+| 8:30 | Start. Check the weekly page. |
+| 8:45 | Math |
+| 9:45 | Writing and Literature |
+| 10:45 | Break |
+| 11:00 | Science or History |
+| 12:00 | Lunch |
+| 1:00 | Spanish, electives, catch up work |
+| 2:30 | Log your work for the day |
+
+## House rules
+
+- School work happens before screens.
+- If you are stuck for more than fifteen minutes, stop and ask. Do not guess your way through a whole lesson.
+- Turn in work the same day you finish it.
+- Late or missed work gets made up on Friday.
+
+## Grade levels this year
+
+- **Brailee** is in 9th grade. Her work counts toward her high school transcript, so keeping records is part of the job.
+- **Addy** is in 7th grade.

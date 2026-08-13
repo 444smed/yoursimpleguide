@@ -1,0 +1,15 @@
+---
+title: "About this site"
+toc: false
+---
+
+Your Simple Guide is a personal reference site. It collects links and instructions for different parts of my life so the people who need them can find them without asking me.
+
+The site is built with [Quarto](https://quarto.org) and hosted free on GitHub Pages.
+
+## Adding a new section
+
+1. Make a new folder in the project, for example `recipes/`.
+2. Add an `index.qmd` inside it with a title in the header block.
+3. Add a link to it in the `navbar` section of `_quarto.yml`.
+4. Run `quarto render`, then commit and push.

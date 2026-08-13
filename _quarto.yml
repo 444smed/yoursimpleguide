@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+    - .nojekyll
+
+website:
+  title: "Your Simple Guide"
+  description: "A catch-all reference site for the things I keep looking up."
+  site-url: "https://yoursimpleguide.com"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: homeschool/index.qmd
+        text: Homeschool
+      - href: about.qmd
+        text: About
+  page-footer:
+    center: "Your Simple Guide"
+  sidebar:
+    - id: homeschool
+      title: "Homeschool"
+      style: floating
+      contents:
+        - homeschool/index.qmd
+        - homeschool/weekly.qmd
+        - text: "---"
+        - homeschool/brailee.qmd
+        - homeschool/addy.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-title: "On this page"
+    anchor-sections: true
+    link-external-newwindow: true
+    link-external-icon: false
+
+editor: source
