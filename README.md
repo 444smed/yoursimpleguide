@@ -1,82 +1,52 @@
 # yoursimpleguide.com
 
-Personal reference site built with Quarto, hosted on GitHub Pages.
+Quarto site hosted on GitHub Pages.
 
-## Everyday workflow
+## Files
 
-```bash
-quarto preview          # live preview while you edit, updates as you save
-quarto render           # build the site into docs/
-git add .
-git commit -m "Post week of Aug 17"
-git push
-```
+- `index.qmd` — site home, list of sections
+- `homeschool/index.qmd` — homeschool overview and shared links
+- `homeschool/brailee.qmd` — Brailee's assignment and links
+- `homeschool/addy.qmd` — Addy's assignment and links
+- `styles.scss` — colors and spacing
+- `_quarto.yml` — menu and settings
 
-The live site updates about a minute after you push.
+## Posting a new assignment
 
-## Posting a new weekly assignment
+Open the girl's file. Replace what is inside the block that starts with
+`::: {.assignment}` and ends with `:::`. Leave those two lines alone.
 
-Edit `homeschool/weekly.qmd`. Move the current week down into the "Past weeks"
-section as a collapsed callout, then write the new week at the top. Render,
-commit, push.
+To keep the old one, move it under "Past assignments" like this:
 
-## Adding a new topic section
+    ::: {.callout-note collapse="true"}
+    ## August 13
+    Old assignment text here.
+    :::
 
-1. Create a folder, for example `recipes/`, with an `index.qmd` inside.
-2. Add the page to the `navbar` list in `_quarto.yml`.
-3. Render, commit, push.
+## Adding a link
 
-## Important files
+Inside a `::: {.linklist}` block, add a line:
 
-- `_quarto.yml` — site config, menu, output folder
-- `styles.scss` — colors and fonts
-- `CNAME` — holds the custom domain, gets copied into `docs/` on every render
-- `.nojekyll` — tells GitHub Pages not to run Jekyll on the output
+    - [Course name](https://the-real-url.com)
 
-Do not delete `CNAME` or `.nojekyll`. If the site suddenly loses its styling or
-the domain stops working, check that both files exist inside `docs/` after a
-render.
+## Publishing changes
 
-## First time setup
+1. Save the file.
+2. In a terminal, `cd` to this folder, run `quarto render`.
+3. In GitHub Desktop: write a summary, Commit to main, then Push origin.
 
-### 1. Install
+Live about a minute later.
 
-- Quarto: https://quarto.org/docs/get-started/
-- Git: https://git-scm.com/downloads
-- A GitHub account: https://github.com
+## Do not delete
 
-### 2. Push to GitHub
+`CNAME` and `.nojekyll`. They keep the custom domain and the styling working.
 
-Create an empty repo on GitHub named `yoursimpleguide` (public, no README).
-Then in this folder:
+## Adding a new section later
 
-```bash
-git init
-git add .
-git commit -m "Initial site"
-git branch -M main
-git remote add origin https://github.com/YOURUSERNAME/yoursimpleguide.git
-git push -u origin main
-```
+1. Make a folder, for example `house/`, with an `index.qmd` inside it.
+2. Add it to the `navbar` list in `_quarto.yml`.
+3. Add a line for it under "Sections" on `index.qmd`.
 
-### 3. Turn on GitHub Pages
+## Changing the accent color
 
-Repo → Settings → Pages → Build and deployment → Deploy from a branch →
-branch `main`, folder `/docs` → Save.
-
-### 4. Point the domain (Hostinger)
-
-In Hostinger: Domains → yoursimpleguide.com → DNS / Nameservers.
-
-Delete any existing A record on `@` and any CNAME on `www`, then add:
-
-| Type | Name | Points to |
-|---|---|---|
-| A | @ | 185.199.108.153 |
-| A | @ | 185.199.109.153 |
-| A | @ | 185.199.110.153 |
-| A | @ | 185.199.111.153 |
-| CNAME | www | YOURUSERNAME.github.io |
-
-Then back in GitHub → Settings → Pages → Custom domain, enter
-`yoursimpleguide.com` and save. Once the check passes, tick **Enforce HTTPS**.
+Top of `styles.scss`, the line `$blue: #1a3fb8;`. Replace the hex code.

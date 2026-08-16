@@ -7,38 +7,28 @@ project:
 
 website:
   title: "Your Simple Guide"
-  description: "A catch-all reference site for the things I keep looking up."
   site-url: "https://yoursimpleguide.com"
   navbar:
-    background: primary
     left:
       - href: index.qmd
         text: Home
-      - href: homeschool/index.qmd
-        text: Homeschool
-      - href: about.qmd
-        text: About
+      - text: Homeschool
+        menu:
+          - href: homeschool/index.qmd
+            text: Overview
+          - href: homeschool/brailee.qmd
+            text: Brailee
+          - href: homeschool/addy.qmd
+            text: Addy
   page-footer:
-    center: "Your Simple Guide"
-  sidebar:
-    - id: homeschool
-      title: "Homeschool"
-      style: floating
-      contents:
-        - homeschool/index.qmd
-        - homeschool/weekly.qmd
-        - text: "---"
-        - homeschool/brailee.qmd
-        - homeschool/addy.qmd
+    center: "yoursimpleguide.com"
 
 format:
   html:
     theme:
       - cosmo
       - styles.scss
-    toc: true
-    toc-title: "On this page"
-    anchor-sections: true
+    toc: false
     link-external-newwindow: true
     link-external-icon: false
 

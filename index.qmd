@@ -1,27 +1,11 @@
 ---
 title: "Your Simple Guide"
-description: "One place for the links, notes, and instructions I keep having to hunt down."
-toc: false
 ---
 
-This site is my catch up reference. Instead of digging through texts, bookmarks, and old emails, everything lives here and stays current.
+Links and notes for the different parts of our life, kept in one place.
 
-::: {.grid-cards}
+## Sections
 
-::: {.card-tile}
-### [Homeschool](homeschool/index.qmd)
-Course links, logins, and the weekly assignment for Brailee and Addy.
+::: {.linklist}
+- [Homeschool](homeschool/index.qmd)
 :::
-
-::: {.card-tile}
-### More coming
-Placeholder for the next topic. Design, work, house, whatever needs a home.
-:::
-
-:::
-
-## How to use this site
-
-Use the menu at the top to pick a section. Inside Homeschool, the sidebar on the left has the weekly assignment page and a page for each girl.
-
-Everything here is public on the internet, so keep passwords and anything private off these pages.

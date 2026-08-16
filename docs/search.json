@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Your Simple Guide",
     "section": "",
-    "text": "This site is my catch up reference. Instead of digging through texts, bookmarks, and old emails, everything lives here and stays current."
+    "text": "Links and notes for the different parts of our life, kept in one place."
   },
   {
     "objectID": "index.html#how-to-use-this-site",
@@ -18,7 +18,7 @@
     "href": "homeschool/index.html",
     "title": "Homeschool",
     "section": "",
-    "text": "Welcome, girls. Everything you need for school is on this site.",
+    "text": "Course links and assignments for the 2026 to 2027 school year.",
     "crumbs": [
       "Homeschool"
     ]
@@ -76,12 +76,12 @@
   {
     "objectID": "homeschool/addy.html",
     "href": "homeschool/addy.html",
-    "title": "Addy, 7th Grade",
+    "title": "Addy",
     "section": "",
-    "text": "Course\nLink\nNotes\n\n\n\n\nMath 7\nOpen\n\n\n\nEnglish 7\nOpen\nWriting assignment due Friday\n\n\nLife Science\nOpen\n\n\n\nTexas History\nOpen\n\n\n\nSpanish\nOpen\n\n\n\nPE or activity\nOpen\nLog your activity\n\n\nElective\nOpen",
+    "text": "Posted August 13\n\n\nPick one place you know well and describe it so someone who has never been there can picture it.\n\nOne paragraph, around 150 to 200 words\nUse at least three of the five senses\nDo not name the place until the last sentence\n\nDue Friday. Turn it in as a shared doc.",
     "crumbs": [
       "Homeschool",
-      "Addy, 7th Grade"
+      "Addy"
     ]
   },
   {
@@ -145,12 +145,12 @@
   {
     "objectID": "homeschool/brailee.html",
     "href": "homeschool/brailee.html",
-    "title": "Brailee, 9th Grade",
+    "title": "Brailee",
     "section": "",
-    "text": "Course\nLink\nNotes\n\n\n\n\nAlgebra I\nOpen\n\n\n\nEnglish I\nOpen\nWriting assignment due Friday\n\n\nBiology\nOpen\nLab write ups get saved\n\n\nWorld Geography\nOpen\n\n\n\nSpanish I\nOpen\n\n\n\nHealth or PE\nOpen\nLog your activity\n\n\nElective\nOpen",
+    "text": "Posted August 13\n\n\nWrite about a time something did not go the way you expected.\n\nFive paragraphs, roughly 600 to 800 words\nOpen with the moment itself, not with background\nTell me what you expected, what happened, and what you took from it\nRead it out loud once before you turn it in\n\nDue Friday. Turn it in as a shared doc.",
     "crumbs": [
       "Homeschool",
-      "Brailee, 9th Grade"
+      "Brailee"
     ]
   },
   {
@@ -261,6 +261,99 @@
     "crumbs": [
       "Homeschool",
       "This Week's Assignments"
+    ]
+  },
+  {
+    "objectID": "index.html#sections",
+    "href": "index.html#sections",
+    "title": "Your Simple Guide",
+    "section": "Sections",
+    "text": "Sections\n\n\nHomeschool"
+  },
+  {
+    "objectID": "homeschool/brailee.html#current-assignment",
+    "href": "homeschool/brailee.html#current-assignment",
+    "title": "Brailee",
+    "section": "",
+    "text": "Posted August 13\n\n\nWrite about a time something did not go the way you expected.\n\nFive paragraphs, roughly 600 to 800 words\nOpen with the moment itself, not with background\nTell me what you expected, what happened, and what you took from it\nRead it out loud once before you turn it in\n\nDue Friday. Turn it in as a shared doc.",
+    "crumbs": [
+      "Homeschool",
+      "Brailee"
+    ]
+  },
+  {
+    "objectID": "homeschool/brailee.html#course-links",
+    "href": "homeschool/brailee.html#course-links",
+    "title": "Brailee",
+    "section": "Course links",
+    "text": "Course links\n\n\nAlgebra I\nEnglish I\nBiology\nWorld Geography\nSpanish I",
+    "crumbs": [
+      "Homeschool",
+      "Brailee"
+    ]
+  },
+  {
+    "objectID": "homeschool/brailee.html#past-assignments",
+    "href": "homeschool/brailee.html#past-assignments",
+    "title": "Brailee",
+    "section": "Past assignments",
+    "text": "Past assignments\n\n\n\n\n\n\nNoteAugust 6\n\n\n\n\n\nNothing assigned. Orientation week.",
+    "crumbs": [
+      "Homeschool",
+      "Brailee"
+    ]
+  },
+  {
+    "objectID": "homeschool/addy.html#current-assignment",
+    "href": "homeschool/addy.html#current-assignment",
+    "title": "Addy",
+    "section": "",
+    "text": "Posted August 13\n\n\nPick one place you know well and describe it so someone who has never been there can picture it.\n\nOne paragraph, around 150 to 200 words\nUse at least three of the five senses\nDo not name the place until the last sentence\n\nDue Friday. Turn it in as a shared doc.",
+    "crumbs": [
+      "Homeschool",
+      "Addy"
+    ]
+  },
+  {
+    "objectID": "homeschool/addy.html#course-links",
+    "href": "homeschool/addy.html#course-links",
+    "title": "Addy",
+    "section": "Course links",
+    "text": "Course links\n\n\nMath 7\nEnglish 7\nLife Science\nTexas History\nSpanish",
+    "crumbs": [
+      "Homeschool",
+      "Addy"
+    ]
+  },
+  {
+    "objectID": "homeschool/addy.html#past-assignments",
+    "href": "homeschool/addy.html#past-assignments",
+    "title": "Addy",
+    "section": "Past assignments",
+    "text": "Past assignments\n\n\n\n\n\n\nNoteAugust 6\n\n\n\n\n\nNothing assigned. Orientation week.",
+    "crumbs": [
+      "Homeschool",
+      "Addy"
+    ]
+  },
+  {
+    "objectID": "homeschool/index.html#girls",
+    "href": "homeschool/index.html#girls",
+    "title": "Homeschool",
+    "section": "Girls",
+    "text": "Girls\n\n\nBrailee, 9th grade\nAddy, 7th grade",
+    "crumbs": [
+      "Homeschool"
+    ]
+  },
+  {
+    "objectID": "homeschool/index.html#shared-links",
+    "href": "homeschool/index.html#shared-links",
+    "title": "Homeschool",
+    "section": "Shared links",
+    "text": "Shared links\n\n\nMain course platform\nLibrary account\nTyping practice",
+    "crumbs": [
+      "Homeschool"
     ]
   }
 ]

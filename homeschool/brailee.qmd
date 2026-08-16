@@ -1,42 +1,37 @@
 ---
-title: "Brailee, 9th Grade"
-description: "Course links and what counts toward your high school transcript."
+title: "Brailee"
 ---
 
-## Your courses
+## Current assignment
 
-| Course | Link | Notes |
-|---|---|---|
-| Algebra I | [Open](https://example.com) | |
-| English I | [Open](https://example.com) | Writing assignment due Friday |
-| Biology | [Open](https://example.com) | Lab write ups get saved |
-| World Geography | [Open](https://example.com) | |
-| Spanish I | [Open](https://example.com) | |
-| Health or PE | [Open](https://example.com) | Log your activity |
-| Elective | [Open](https://example.com) | |
+::: {.assignment}
+[Posted August 13]{.posted}
 
-: {tbl-colwidths="[28,20,52]"}
+### Personal narrative essay
 
-## Credits this year
+Write about a time something did not go the way you expected.
 
-Ninth grade counts. Every course you finish this year goes on your transcript for college applications.
+- Five paragraphs, roughly 600 to 800 words
+- Open with the moment itself, not with background
+- Tell me what you expected, what happened, and what you took from it
+- Read it out loud once before you turn it in
 
-| Course | Credit | Status |
-|---|---|---|
-| Algebra I | 1.0 | In progress |
-| English I | 1.0 | In progress |
-| Biology | 1.0 | In progress |
-| World Geography | 1.0 | In progress |
-| Spanish I | 1.0 | In progress |
+[Due Friday.]{.due} Turn it in as a shared doc.
+:::
 
-## Dual credit
+## Course links
 
-The goal is for you to start earning college credit while you are still in high school. Nothing to do yet, but here is where we are:
+::: {.linklist}
+- [Algebra I](https://example.com)
+- [English I](https://example.com)
+- [Biology](https://example.com)
+- [World Geography](https://example.com)
+- [Spanish I](https://example.com)
+:::
 
-- [ ] Confirm which local college accepts homeschool dual credit students
-- [ ] Check the placement test requirement
-- [ ] Pick a first course
+## Past assignments
 
-## Keeping records
-
-Save a copy of every graded assignment, test, and lab report in your school folder. At the end of the year we use those to build your transcript. If it is not saved, it did not happen.
+::: {.callout-note collapse="true"}
+## August 6
+Nothing assigned. Orientation week.
+:::
