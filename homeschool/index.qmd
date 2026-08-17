@@ -4,17 +4,17 @@ title: "Homeschool"
 
 Course links and assignments for the 2026 to 2027 school year.
 
-## Girls
+## Quien eres?
 
 ::: {.linklist}
-- [Brailee, 9th grade](brailee.qmd)
-- [Addy, 7th grade](addy.qmd)
+- [Brailee](brailee.qmd)
+- [Addy](addy.qmd)
 :::
 
 ## Shared links
 
 ::: {.linklist}
-- [Main course platform](https://example.com)
-- [Library account](https://example.com)
-- [Typing practice](https://example.com)
+<!-- - [Main course platform](https://example.com)
+- [Library account](https://example.com) -->
+- [Typing practice](https://www.keybr.com/)
 :::
