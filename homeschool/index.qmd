@@ -4,7 +4,7 @@ title: "Homeschool"
 
 Course links and assignments for the 2026 to 2027 school year.
 
-## Quien eres?
+## Girls?
 
 ::: {.linklist}
 - [Brailee](brailee.qmd)
