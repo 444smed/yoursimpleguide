@@ -2,7 +2,17 @@
 title: "Addy"
 ---
 
-## Current assignment
+## Schedule & Assignments
+
+::: {.linklist}
+- [Math Introduction Video](https://diveintomath.com/getting-started-shormann-pre-algebra/)
+- [Science Introduction Video](https://diveintomath.com/getting-started-dive-earth-science-elearning-course)
+- [Schedule](/homeschool/files/Addy_2026-27_Weekly_Checklist.pdf){target="_blank"}
+- [Schedule Tracker](https://docs.google.com/spreadsheets/d/1Rbyzt4K89sXv-ZYxEV_gwhXgGCZ7w0khgMEVXFODsNA/edit?gid=1429694084#gid=1429694084){target="_blank"}
+- [Google Drive Folder](https://drive.google.com/drive/folders/1t3WpHzCIQ9RKY446i6ISOnChD7Sa4W8Q?usp=sharing){target="_blank"}
+:::
+
+<!-- ## Current assignment
 
 ::: {.assignment}
 [Posted August 13]{.posted}
@@ -16,21 +26,21 @@ Pick one place you know well and describe it so someone who has never been there
 - Do not name the place until the last sentence
 
 [Due Friday.]{.due} Turn it in as a shared doc.
-:::
+::: -->
 
 ## Course links
 
 ::: {.linklist}
-- [Math 7](https://example.com)
-- [English 7](https://example.com)
-- [Life Science](https://example.com)
-- [Texas History](https://example.com)
-- [Spanish](https://example.com)
+- [Pre Algebra](https://dive.unhosting.site/course/view.php?id=2)
+- [Earth Science](https://dive.unhosting.site/course/view.php?id=3)
+- [Essentials in Writing Level 7](https://members.essentialsinwriting.com/courses/level-7se/)
+- [Essentials in Literature Level 7](https://members.essentialsinwriting.com/courses/essentials-in-literature-level-7/)
+- [Texas History](https://docs.google.com/spreadsheets/d/1oM9G-3YomIIp62vGc6pIiKwfKfumOIfkSdCQaYnSquY/edit?gid=578876707#gid=578876707)
 :::
 
-## Past assignments
+<!-- ## Past assignments
 
 ::: {.callout-note collapse="true"}
 ## August 6
 Nothing assigned. Orientation week.
-:::
+::: -->

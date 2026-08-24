@@ -2,9 +2,18 @@
 title: "Brailee"
 ---
 
-## Current assignment
+## Schedule & Assignments
 
-::: {.assignment}
+::: {.linklist}
+- [Math Introduction Video](https://diveintomath.com/getting-started-shormann-algebra-1-calculus-2/)
+- [Science Introduction Video](https://dive.unhosting.site/pluginfile.php/687/course/section/40/2018%20eLearning%20Getting%20Started%20DIVE%20ICP%20and%20Chemistry.mp4?time=1764186239612)
+- [Schedule](/homeschool/files/Brailee_2026-27_Weekly_Checklist.pdf){target="_blank"}
+- [Schedule Tracker](https://docs.google.com/spreadsheets/d/1tqrm3Tm82jfTqEdVMWIiFB4TCnOdnGxk9wU-oQzRTec/edit?gid=1541656817#gid=1541656817){target="_blank"}
+- [Google Drive Folder](https://drive.google.com/drive/folders/1aLZVdIz4_e9b35oko778dqth3URJ0nuZ?usp=sharing){target="_blank"}
+
+:::
+
+<!-- ::: {.assignment}
 [Posted August 13]{.posted}
 
 ### Personal narrative essay
@@ -17,21 +26,22 @@ Write about a time something did not go the way you expected.
 - Read it out loud once before you turn it in
 
 [Due Friday.]{.due} Turn it in as a shared doc.
-:::
+::: -->
+
 
 ## Course links
 
 ::: {.linklist}
-- [Algebra I](https://example.com)
-- [English I](https://example.com)
-- [Biology](https://example.com)
-- [World Geography](https://example.com)
-- [Spanish I](https://example.com)
+- [Algebra 1 with Integrated Geometry](https://dive.unhosting.site/course/view.php?id=8)
+- [Integrated Chemistry and Physics](https://dive.unhosting.site/course/view.php?id=3)
+- [Essentials in Writing Level 9](https://members.essentialsinwriting.com/courses/level-9se/)
+- [Essentials in Literature Level 9](https://members.essentialsinwriting.com/courses/essentials-in-literature-level-9/)
+- [World Geography](https://docs.google.com/spreadsheets/d/1XgKeQ-kPHsWstlC5lUc_uBGNooCrddKBdTSWoQrQZ5I/edit?gid=1944795775#gid=1944795775)
 :::
 
-## Past assignments
+<!-- ## Past assignments
 
 ::: {.callout-note collapse="true"}
 ## August 6
 Nothing assigned. Orientation week.
-:::
+::: -->
