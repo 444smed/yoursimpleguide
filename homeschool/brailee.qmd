@@ -1,5 +1,8 @@
 ---
 title: "Brailee"
+include-in-header:
+  text: |
+    <link rel="icon" href="/homeschool/imgs/brailee monster.png" type="image/png">
 ---
 
 ## Schedule & Assignments

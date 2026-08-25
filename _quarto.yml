@@ -31,5 +31,7 @@ format:
     toc: false
     link-external-newwindow: true
     link-external-icon: false
+    include-in-header:
+      text: '<meta name="robots" content="noindex, nofollow">'
 
 editor: source
