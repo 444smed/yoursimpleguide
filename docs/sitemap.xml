@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yoursimpleguide.com/index.html</loc>
-    <lastmod>2026-08-16T05:43:41.808Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yoursimpleguide.com/homeschool/brailee.html</loc>
-    <lastmod>2026-08-25T17:15:19.943Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yoursimpleguide.com/homeschool/addy.html</loc>
-    <lastmod>2026-08-25T17:15:16.397Z</lastmod>
+    <loc>https://yoursimpleguide.com/MH Civil/index.html</loc>
+    <lastmod>2026-08-31T03:00:45.204Z</lastmod>
   </url>
   <url>
     <loc>https://yoursimpleguide.com/homeschool/index.html</loc>
     <lastmod>2026-08-24T19:20:33.660Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yoursimpleguide.com/homeschool/addy.html</loc>
+    <lastmod>2026-08-31T03:00:50.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yoursimpleguide.com/homeschool/brailee.html</loc>
+    <lastmod>2026-08-31T02:55:05.918Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yoursimpleguide.com/index.html</loc>
+    <lastmod>2026-08-31T03:00:48.684Z</lastmod>
   </url>
 </urlset>

@@ -11,9 +11,8 @@ include-in-header:
 - [Math Introduction Video](https://diveintomath.com/getting-started-shormann-algebra-1-calculus-2/)
 - [Science Introduction Video](https://dive.unhosting.site/pluginfile.php/687/course/section/40/2018%20eLearning%20Getting%20Started%20DIVE%20ICP%20and%20Chemistry.mp4?time=1764186239612)
 - [Schedule](/homeschool/files/Brailee_2026-27_Weekly_Checklist.pdf){target="_blank"}
-- [Schedule Tracker](https://docs.google.com/spreadsheets/d/11CR6uvA4wrfjItVv4Trytho-2JYSkhyIUW8824JeOM0/edit?gid=1727825170#gid=1727825170){target="_blank"}
+- [Schedule Tracker](https://docs.google.com/spreadsheets/d/1zWNlhMLRcsPOsC53Wx_on7tSVhl08dbjf8IxfwVJWFQ/edit?usp=sharing){target="_blank"}
 - [Google Drive Folder](https://drive.google.com/drive/folders/1aLZVdIz4_e9b35oko778dqth3URJ0nuZ?usp=sharing){target="_blank"}
-
 :::
 
 <!-- ::: {.assignment}
@@ -39,7 +38,7 @@ Write about a time something did not go the way you expected.
 - [Integrated Chemistry and Physics](https://dive.unhosting.site/course/view.php?id=3)
 - [Essentials in Writing Level 9](https://members.essentialsinwriting.com/courses/level-9se/)
 - [Essentials in Literature Level 9](https://members.essentialsinwriting.com/courses/essentials-in-literature-level-9/)
-- [World Geography](https://docs.google.com/spreadsheets/d/1puAREvxxWbFdbmHr0SMnANVC6lMd34hYEkFbmcZr6zM/edit?gid=991023943#gid=991023943)
+<!-- - [World Geography](https://docs.google.com/spreadsheets/d/1puAREvxxWbFdbmHr0SMnANVC6lMd34hYEkFbmcZr6zM/edit?gid=991023943#gid=991023943) -->
 :::
 
 <!-- ## Past assignments
