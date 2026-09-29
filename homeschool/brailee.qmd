@@ -8,10 +8,7 @@ include-in-header:
 ## Schedule & Assignments
 
 ::: {.linklist}
-- [Math Introduction Video](https://diveintomath.com/getting-started-shormann-algebra-1-calculus-2/)
-- [Science Introduction Video](https://dive.unhosting.site/pluginfile.php/687/course/section/40/2018%20eLearning%20Getting%20Started%20DIVE%20ICP%20and%20Chemistry.mp4?time=1764186239612)
-- [Schedule](/homeschool/files/Brailee_2026-27_Weekly_Checklist.pdf){target="_blank"}
-- [Schedule Tracker](https://docs.google.com/spreadsheets/d/1zWNlhMLRcsPOsC53Wx_on7tSVhl08dbjf8IxfwVJWFQ/edit?usp=sharing){target="_blank"}
+- [Schedule Tracker](https://docs.google.com/spreadsheets/d/18rhKJPSnSa04nC0I5-wSQ4KhigQJ5hS1WSnzu-HGKcs/edit?usp=sharing){target="_blank"}
 - [Google Drive Folder](https://drive.google.com/drive/folders/1aLZVdIz4_e9b35oko778dqth3URJ0nuZ?usp=sharing){target="_blank"}
 :::
 

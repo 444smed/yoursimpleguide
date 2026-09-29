@@ -7,6 +7,6 @@ Links and notes for the different parts of our life, kept in one place.
 ## Sections
 
 ::: {.linklist}
-- [MH Civil](MH Civil/index.qmd)
+- [Workzone](workzone/index.qmd)
 - [Homeschool](homeschool/index.qmd)
 :::

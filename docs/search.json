@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "MH Civil/index.html",
-    "href": "MH Civil/index.html",
+    "objectID": "workzone/index.html",
+    "href": "workzone/index.html",
     "title": "MH Civil",
     "section": "",
-    "text": "One Drive\nShare Point"
+    "text": "ChatGPT\nClaude\nGoogle Gemini"
   },
   {
-    "objectID": "MH Civil/index.html#mh-files-and-links",
-    "href": "MH Civil/index.html#mh-files-and-links",
+    "objectID": "workzone/index.html#ai-tools",
+    "href": "workzone/index.html#ai-tools",
     "title": "MH Civil",
     "section": "",
-    "text": "One Drive\nShare Point"
+    "text": "ChatGPT\nClaude\nGoogle Gemini"
+  },
+  {
+    "objectID": "workzone/index.html#mh-files-and-links",
+    "href": "workzone/index.html#mh-files-and-links",
+    "title": "MH Civil",
+    "section": "MH Files and Links",
+    "text": "MH Files and Links\n\n\nOne Drive\nShare Point"
   },
   {
     "objectID": "homeschool/index.html",
@@ -39,14 +46,14 @@
     "href": "homeschool/addy.html",
     "title": "Addy",
     "section": "",
-    "text": "Math Introduction Video\nScience Introduction Video\nSchedule\nSchedule Tracker\nGoogle Drive Folder"
+    "text": "Schedule Tracker\nGoogle Drive Folder"
   },
   {
     "objectID": "homeschool/addy.html#schedule-assignments",
     "href": "homeschool/addy.html#schedule-assignments",
     "title": "Addy",
     "section": "",
-    "text": "Math Introduction Video\nScience Introduction Video\nSchedule\nSchedule Tracker\nGoogle Drive Folder"
+    "text": "Schedule Tracker\nGoogle Drive Folder"
   },
   {
     "objectID": "homeschool/addy.html#course-links",
@@ -60,14 +67,14 @@
     "href": "homeschool/brailee.html",
     "title": "Brailee",
     "section": "",
-    "text": "Math Introduction Video\nScience Introduction Video\nSchedule\nSchedule Tracker\nGoogle Drive Folder"
+    "text": "Schedule Tracker\nGoogle Drive Folder"
   },
   {
     "objectID": "homeschool/brailee.html#schedule-assignments",
     "href": "homeschool/brailee.html#schedule-assignments",
     "title": "Brailee",
     "section": "",
-    "text": "Math Introduction Video\nScience Introduction Video\nSchedule\nSchedule Tracker\nGoogle Drive Folder"
+    "text": "Schedule Tracker\nGoogle Drive Folder"
   },
   {
     "objectID": "homeschool/brailee.html#course-links",
@@ -88,6 +95,6 @@
     "href": "index.html#sections",
     "title": "Your Simple Guide",
     "section": "Sections",
-    "text": "Sections\n\n\nMH Civil\nHomeschool"
+    "text": "Sections\n\n\nWorkzone\nHomeschool"
   }
 ]

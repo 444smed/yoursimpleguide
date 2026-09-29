@@ -3,6 +3,14 @@ title: "MH Civil"
 ---
 
 
+
+## Ai Tools
+::: {.linklist}
+- [ChatGPT](https://chatgpt.com/){target="_blank"}
+- [Claude](https://claude.ai){target="_blank"}
+- [Google Gemini](https://gemini.google.com/app){target="_blank"}
+:::
+
 ## MH Files and Links
 ::: {.linklist}
 - [One Drive](https://mhcivil-my.sharepoint.com/){target="_blank"}

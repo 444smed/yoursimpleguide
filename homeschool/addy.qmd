@@ -8,10 +8,7 @@ include-in-header:
 ## Schedule & Assignments
 
 ::: {.linklist}
-- [Math Introduction Video](https://diveintomath.com/getting-started-shormann-pre-algebra/)
-- [Science Introduction Video](https://diveintomath.com/getting-started-dive-earth-science-elearning-course)
-- [Schedule](/homeschool/files/Addy_2026-27_Weekly_Checklist.pdf){target="_blank"}
-- [Schedule Tracker](https://docs.google.com/spreadsheets/d/1oJe1NIOsVGhOFZRei2lAUddgPB10ndOVYJx8N955BGk/edit?usp=sharing){target="_blank"}
+- [Schedule Tracker](https://docs.google.com/spreadsheets/d/1rmCi0XPbYqZWNKtSk7HSYOgSk5YIAPIviCZNp_tDPZA/edit?usp=sharing){target="_blank"}
 - [Google Drive Folder](https://drive.google.com/drive/folders/1t3WpHzCIQ9RKY446i6ISOnChD7Sa4W8Q?usp=sharing){target="_blank"}
 :::
 
