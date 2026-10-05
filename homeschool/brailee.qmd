@@ -8,7 +8,7 @@ include-in-header:
 ## Schedule & Assignments
 
 ::: {.linklist}
-- [Schedule Tracker](https://docs.google.com/spreadsheets/d/18rhKJPSnSa04nC0I5-wSQ4KhigQJ5hS1WSnzu-HGKcs/edit?usp=sharing){target="_blank"}
+- [Schedule Tracker](https://docs.google.com/spreadsheets/d/1lplxj36iDak9_tEbkzCeqvUmoGmxnbPoYHubE9dtuoU/edit?usp=sharing){target="_blank"}
 - [Google Drive Folder](https://drive.google.com/drive/folders/1aLZVdIz4_e9b35oko778dqth3URJ0nuZ?usp=sharing){target="_blank"}
 :::
 
